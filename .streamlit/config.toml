@@ -6,7 +6,7 @@ primaryColor = "#38ef7d"
 backgroundColor = "#f7fff7"
 
 # Sidebar background (deep forest green for contrast)
-secondaryBackgroundColor = "#0b3d26"
+secondaryBackgroundColor = "#32CD32"
 
 # Default text color for main content
 textColor = "#000000"
