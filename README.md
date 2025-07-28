@@ -1,4 +1,4 @@
-# 🌿 AI-Hydroponics: Professional README Template
+# 🌿 AI-Hydroponics: README
 
 ![AI-Hydroponics Banner](https://img.shields.io/badge/AI--Hydroponics-Fenugreek%20Harvest%20Predictor-green?style=for-the-badge&logo=leaf)
 
