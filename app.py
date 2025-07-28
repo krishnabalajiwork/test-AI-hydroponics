@@ -12,7 +12,7 @@ st.markdown("""
 <style>
 /* Set sidebar background color */
 [data-testid="stSidebar"] {
-    background-color: #32CD32 !important;  /* Lime green sidebar */
+    background-color: #d65184 !important;  /* Lime green sidebar */
 }
 /* Sidebar text: force white for readability */
 [data-testid="stSidebar"] label,
