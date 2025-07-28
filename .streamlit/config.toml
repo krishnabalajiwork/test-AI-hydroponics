@@ -1,1 +1,12 @@
+[theme]
+# Primary accent color for buttons and highlights
+primaryColor = "#38ef7d"
 
+# Main background color (light green-white)
+backgroundColor = "#f7fff7"
+
+# Sidebar background (deep forest green for contrast)
+secondaryBackgroundColor = "#0b3d26"
+
+# Default text color for main content
+textColor = "#000000"
