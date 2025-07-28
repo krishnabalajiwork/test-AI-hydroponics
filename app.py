@@ -10,7 +10,11 @@ import plotly.graph_objects as go
 # CSS fix for sidebar text visibility
 st.markdown("""
 <style>
-/* Force all sidebar labels and markdown to white */
+/* Set sidebar background color */
+[data-testid="stSidebar"] {
+    background-color: #32CD32 !important;  /* Lime green sidebar */
+}
+/* Sidebar text: force white for readability */
 [data-testid="stSidebar"] label,
 [data-testid="stSidebar"] .stMarkdown,
 [data-testid="stSidebar"] .stSelectbox label,
@@ -18,13 +22,11 @@ st.markdown("""
 [data-testid="stSidebar"] .stNumberInput label {
     color: #ffffff !important;
 }
-
-/* Additional styling for better contrast */
+/* Enhanced selectbox background */
 [data-testid="stSidebar"] .stSelectbox div[data-baseweb="select"] {
     background-color: rgba(255,255,255,0.1);
 }
-
-/* Custom styling for the main app */
+/* Main app header styling */
 .main-header {
     background: linear-gradient(90deg, #11998e, #38ef7d);
     padding: 2rem;
@@ -33,7 +35,7 @@ st.markdown("""
     text-align: center;
     color: white;
 }
-
+/* Metric cards */
 .metric-card {
     background: linear-gradient(135deg, #66bb6a, #4caf50);
     color: white;
@@ -42,12 +44,11 @@ st.markdown("""
     margin: 1rem 0;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
-
+/* Plant emoji animation */
 .plant-emoji {
     font-size: 2rem;
     animation: bounce 2s infinite;
 }
-
 @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {
         transform: translateY(0);
