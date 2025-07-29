@@ -16,51 +16,52 @@ st.markdown("""
 [data-testid="stSidebar"] .stSelectbox label,
 [data-testid="stSidebar"] .stSlider label,
 [data-testid="stSidebar"] .stNumberInput label {
-color: #ffffff !important;
+    color: #ffffff !important;
 }
 
 /* Additional styling for better contrast */
 [data-testid="stSidebar"] .stSelectbox div[data-baseweb="select"] {
-background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255,255,255,0.1);
 }
 
 /* Custom styling for the main app */
 .main-header {
-background: linear-gradient(90deg, #11998e, #38ef7d);
-padding: 2rem;
-border-radius: 10px;
-margin-bottom: 2rem;
-text-align: center;
-color: white;
+    background: linear-gradient(90deg, #11998e, #38ef7d);
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: white;
 }
 
 .metric-card {
-background: linear-gradient(135deg, #66bb6a, #4caf50);
-color: white;
-padding: 1.5rem;
-border-radius: 12px;
-margin: 1rem 0;
-box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    background: linear-gradient(135deg, #66bb6a, #4caf50);
+    color: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin: 1rem 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
 .plant-emoji {
-font-size: 2rem;
-animation: bounce 2s infinite;
+    font-size: 2rem;
+    animation: bounce 2s infinite;
 }
 
 @keyframes bounce {
-0%, 20%, 50%, 80%, 100% {
-transform: translateY(0);
-}
-40% {
-transform: translateY(-10px);
-}
-60% {
-transform: translateY(-5px);
-}
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
 }
 </style>
 """, unsafe_allow_html=True)
+
 
 # Page configuration
 st.set_page_config(
