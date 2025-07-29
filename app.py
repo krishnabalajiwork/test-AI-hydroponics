@@ -115,7 +115,7 @@ def create_training_data():
 @st.cache_resource
 def train_model():
     df = create_training_data()
-    X = df]
+    X = df
     y = df
     
     model = RandomForestRegressor(n_estimators=100, random_state=42)
