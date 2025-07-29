@@ -8,7 +8,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # CSS fix for sidebar text visibility
- st.markdown("""
+st.markdown("""
 <style>
 /* Force all sidebar labels and markdown to white */
 [data-testid="stSidebar"] label,
