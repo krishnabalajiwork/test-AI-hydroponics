@@ -7,7 +7,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-green?style=for-the-badge)](https://scikit-learn.org)
 
-## 🌱 **Project Ov e r view**
+## 🌱 **Project Ov e r v iew**
 
 **AI-Hydroponics Fenugreek Harvest Predictor** is an intelligent agricultural application that helps hydroponic farmers optimize their fenugreek harvest timing using machine learning. By analyzing plant age and pH conditions, it provides precise predictions for optimal harvest dates, growth rates, and cultivation recommendations.
 
