@@ -127,7 +127,7 @@ Open your browser at `http://localhost:8501`.
 
 <img width="485" height="608" alt="1752427516648" src="https://github.com/user-attachments/assets/0e37141c-ea53-4443-9857-c6934efd99b2" />
 
-Linkedin post: https://www.linkedin.com/posts/chintha-krishna-balaji_ai-hydroponics-internship-activity-7350358387869593601-oXiB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET8tO8Bc0Bb1gwJjJEOsnC5pXh3aJDIbNM
+* **Linkedin post:** https://www.linkedin.com/posts/chintha-krishna-balaji_ai-hydroponics-internship-activity-7350358387869593601-oXiB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET8tO8Bc0Bb1gwJjJEOsnC5pXh3aJDIbNM
 * **GitHub:** [@krishnabalajiwork](https://github.com/krishnabalajiwork)
 * **Live Demo:** [test-ai-hydroponics.streamlit.app](https://test-ai-hydroponics.streamlit.app/)
 
